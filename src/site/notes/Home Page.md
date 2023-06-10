@@ -18,9 +18,11 @@ This Obsidian Vault is an offshoot of the one I made for myself as a DM. As such
 ```ad-info
 title: Using Obsidian
 To get an overview of this app and why we are using it click the link below
-[[Obsidian]]
 
 ```
+
+[[Using Obsidian/Obsidian\|Obsidian]]
+
 ---
 <br><br>
 ```ad-summary
