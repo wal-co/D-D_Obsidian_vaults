@@ -29,3 +29,4 @@ While you were entering *The Drunk Warrior*, the inn where you got the job tip, 
 - Come up with a backstory for your character and share it with me (in an [[Using Obsidian/Obsidian\|Obsidian]] note would work!)
 - Read through the [[Players Handbook/Player Handbook\|Player Handbook]] wiki
 - Get comfortable using this software, not just the website.
+- Find a picture for your character and send it to me as a link or `.jpg` or `.png`. If you don't you'll be stuck with whatever one I choose for you. 
