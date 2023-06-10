@@ -27,9 +27,11 @@ To get an overview of this app and why we are using it click the link below
 <br><br>
 ```ad-summary
 title: Player Handbook
-To view the Player's Handbook click [[DnD 5e Players Handbook.pdf| here]]
+To view the Player's Handbook click the link below
 
 ```
+
+[[DnD 5e Players Handbook.pdf]]
 
 ---
 <br><br>
@@ -39,7 +41,7 @@ To view the Rules Wiki click the link below
 
 ```
 
-[[Players Handbook/Player Handbook\|Player Handbook]]
+[[Players Handbook/Player Handbook Wiki\|Player Handbook Wiki]]
 
 ---
 <br><br>
