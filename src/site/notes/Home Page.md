@@ -43,6 +43,15 @@ To view the Rules Wiki click the link below
 
 ---
 <br><br>
+```ad-abstract
+title: The Gribbits Detective Agency
+To find useful links to our campaign, click the link below
+```
+
+[[The Gribbits Detective Agency/Gribbits Campaign Home\|Gribbits Campaign Home]]
+
+---
+
 ```ad-tip
 title: Adding more of these links to your Home Page
 If you want to add your own links to this page you can use the ones I made as a guide by entering source mode and copy/pasting then changing each field...
