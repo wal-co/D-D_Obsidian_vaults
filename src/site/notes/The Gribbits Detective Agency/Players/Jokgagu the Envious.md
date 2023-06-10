@@ -4,11 +4,11 @@
 
 # Bella
 
-![[image\|image]]
+![Jokgagu.jpg](/img/user/Attachments/Images/Jokgagu.jpg)
 
 | Class & Level | Background | Player Name | Race         | Alignment |
 | ------------- | ---------- | ----------- | ------------ | --------- |
-|[[Players Handbook/Classes/Barbarian\|Barbarian]] $1$   | *outlander* | *Jokgagu The Envious* | [[Players Handbook/Races/Half-Orc\|Half-Orc]] | *alignment* |
+|[[Players Handbook/Classes/Barbarian\|Barbarian]] $1$   | *outlander* | *Bella* | [[Players Handbook/Races/Half-Orc\|Half-Orc]] | *alignment* |
 
 
 
