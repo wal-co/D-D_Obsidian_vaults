@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players-handbook/player-handbook/"}
+{"dg-publish":true,"permalink":"/players-handbook/player-handbook/","noteIcon":""}
 ---
 
 
