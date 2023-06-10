@@ -8,7 +8,7 @@
 
 | Class & Level | Background | Player Name | Race         | Alignment |
 | ------------- | ---------- | ----------- | ------------ | --------- |
-|[[Players Handbook/Classes/Barbarian\|Barbarian]] $1$   | *outlander* | *Bella* | [[Players Handbook/Races/Half-Orc\|Half-Orc]] | *alignment* |
+|[[Players Handbook/Classes/Barbarian\|Barbarian]] $1$   | *outlander* | *Bella* | [[Players Handbook/Races/Half-Orc\|Half-Orc]] | *Lawful Neutral* |
 
 
 
