@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/using-obsidian/obsidian/","tags":["Home_Page"]}
+{"dg-publish":true,"permalink":"/using-obsidian/obsidian/","tags":["ObsidianMD, Tutorial"],"noteIcon":""}
 ---
 
 # What is this?
