@@ -68,15 +68,15 @@
 
 ### Successes
 
-- [ ] 1
-- [ ] 2
-- [ ] 3
+- [] 1
+- [] 2
+- [] 3
 
 ### Failures
 
-- [ ] 1
-- [ ] 2
-- [ ] 3
+- [] 1
+- [] 2
+- [] 3
 
 # Attacks & Spellcasting
 
@@ -102,4 +102,5 @@ Simple weapons, short swords, Panflute, saving throws; strength and dexterity 10
 # Features and Traits
 
 >[!tip]+ trait
-><description>
+>
+
