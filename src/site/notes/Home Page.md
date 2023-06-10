@@ -27,6 +27,9 @@ title: Player Handbook
 To view the Player's Handbook click [[DnD 5e Players Handbook.pdf| here]]
 
 ```
+
+[[Using Obsidian/Obsidian\|Obsidian]]
+
 ---
 <br><br>
 ```ad-faq
