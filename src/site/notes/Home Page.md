@@ -35,9 +35,12 @@ To view the Player's Handbook click [[DnD 5e Players Handbook.pdf| here]]
 <br><br>
 ```ad-faq
 title: Rules Wiki
-To view the Rules Wiki start [[Player Handbook | here]]
+To view the Rules Wiki click the link below
 
 ```
+
+[[Players Handbook/Player Handbook\|Player Handbook]]
+
 ---
 <br><br>
 ```ad-tip
