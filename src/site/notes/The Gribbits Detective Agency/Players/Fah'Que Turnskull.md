@@ -8,7 +8,7 @@
 
 | Class & Level | Background | Player Name | Race         | Alignment |
 | ------------- | ---------- | ----------- | ------------ | --------- |
-| [[Players Handbook/Classes/Monk\|Monk]] $1$       | *hermit*   | *Mikey*       | [[Players Handbook/Races/Half-Orc\|Half-Orc]] |     *alignment*    |
+| [[Players Handbook/Classes/Monk\|Monk]] $1$       | *hermit*   | *Mikey*       | [[Players Handbook/Races/Half-Orc\|Half-Orc]] |     *Lawful Neutral*    |
 
 # Stats
 
