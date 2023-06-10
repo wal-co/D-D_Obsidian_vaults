@@ -84,7 +84,7 @@
 | *weapon* |   $num$    | $dice + mod$ | *type* |
 
 > [!tip]+ attack
-> <description>
+> 
 
 # Other proficiencies
 
@@ -114,4 +114,4 @@
 # Features and Traits
 
 >[!tip]+ trait
-><description>
+>
