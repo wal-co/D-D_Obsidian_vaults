@@ -61,4 +61,4 @@ or ask me
 
 # test link
 
-[[Attachments/PDFs/DnD 5e Players Handbook\|DnD 5e Players Handbook]]
+[[DnD 5e Players Handbook\|DnD 5e Players Handbook]]
