@@ -4,11 +4,11 @@
 
 # Emily
 
-![[image\|image]]
+![Ea.png](/img/user/Attachments/Images/Ea.png)
 
-| Class & Level | Background | Player Name | Race         | Alignment |
-| ------------- | ---------- | ----------- | ------------ | --------- |
-| [[Players Handbook/Classes/Cleric\|Cleric]] $1$       | *acolyte*   | *Ea*       | [[Players Handbook/Races/Tiefling\|Tiefling]] |     *Lawful Neutral*    |
+| Class & Level  | Background | Player Name | Race         | Alignment        |
+| -------------  | ---------- | ----------- | ------------ | ---------        |
+| [[Players Handbook/Classes/Cleric\|Cleric]] $1$ | *acolyte*  | *Emily*     | [[Players Handbook/Races/Tiefling\|Tiefling]] | *Lawful Neutral* |
 
 # Stats
 
@@ -21,7 +21,7 @@
 | [[Players Handbook/Ability Scores/Wisdom Ability Score\|WIS]]       |   $+4$   | $18$ |
 | [[Players Handbook/Ability Scores/Charisma Ability Score\|CHA]]     |   $1$   | $13$  |
 
-#passive_perception : $num$
+#passive_perception : $14$
 #Armor_class: $15$ (scale mail $+14$, shield $+2$, Dex $-1$)
 #initiative : $-1$
 #speed : $30ft$
@@ -48,7 +48,9 @@
 | Skill           | Modifier |
 |:--------------- |:--------:|
 | Insight      |   $+6$    |
-| Medicine       |   $+6$    |
+| Medicine     |   $+6$    |
+| Persuasion   |   $+3$    |
+| Religion     | $+3$          |
 
 # Health
 
@@ -81,7 +83,7 @@
 | Name                 | Atk Bonus   | Damage    | type                        |
 | ----------           | :---------: | -------   | --------                    |
 | *[[Warhammer\|Warhammer]]*      | $+0$        | $1d8 + 0$ | *Bludgeoning*               |
-| *Light [[crossbow\|crossbow]]* | $-1$        | $1d8+0    | *piercing, requires arrows* |
+| *Light [[crossbow\|crossbow]]* | $-1$        | $1d8+0    | *piercing, crossbow bolt (range: 80/320), two handed* |
 
 > [!tip]+ Versatile
 > When attacking with the [[Warhammer\|Warhammer]], you can weild it with two hands and roll $1d10$ instead
@@ -116,6 +118,11 @@
 
 ## Spells
 
+### Slots
+**Level 1**
+- [ ] 1
+- [ ] 2
+
 >[!tip]+ Bless
 > Casting Time: 1 action
 > Range: $30ft$
@@ -147,7 +154,7 @@
 - Simple Weapon (Dagger)
 - Priests Pack
 - A shield and a Holy Symbol
-- 20 arrows
+- 20 crossbow bolts
 
 ## Coin
 
