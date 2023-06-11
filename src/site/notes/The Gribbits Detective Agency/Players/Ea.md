@@ -78,9 +78,10 @@
 
 ## Weapons
 
-| Name       | Atk Bonus | Damage  | type     |
-| ---------- |:---------:| ------- | -------- |
-| *[[Warhammer\|Warhammer]]* |   $+0$    | $1d8 + 0$ | *Bludgeoning* |
+| Name                 | Atk Bonus   | Damage    | type                        |
+| ----------           | :---------: | -------   | --------                    |
+| *[[Warhammer\|Warhammer]]*      | $+0$        | $1d8 + 0$ | *Bludgeoning*               |
+| *Light [[crossbow\|crossbow]]* | $-1$        | $1d8+0    | *piercing, requires arrows* |
 
 > [!tip]+ Versatile
 > When attacking with the [[Warhammer\|Warhammer]], you can weild it with two hands and roll $1d10$ instead
@@ -105,6 +106,14 @@
 >
 >You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
+>[!tip]+ Guidance
+> Casting Time: 1 action
+> Range: $Touch$
+> Components: V,S
+> Duration: Concentration, Up to 1 minute
+>
+>You touch one willing creature. Once, before the spell ends, the target can roll $1d4$ and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+
 ## Spells
 
 >[!tip]+ Bless
@@ -126,14 +135,6 @@
 > #healing
 >A creature you touch regains a number of hit points equal to $1d8+6$
 
->[!tip]+ Guidance
-> Casting Time: 1 action
-> Range: $Touch$
-> Components: V,S
-> Duration: Concentration, Up to 1 minute
->
->You touch one willing creature. Once, before the spell ends, the target can roll $1d4$ and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
-
 
 # Other proficiencies
 
@@ -146,6 +147,7 @@
 - Simple Weapon (Dagger)
 - Priests Pack
 - A shield and a Holy Symbol
+- 20 arrows
 
 ## Coin
 
