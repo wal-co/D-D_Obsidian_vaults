@@ -23,7 +23,7 @@
 
 #passive_perception : $11$
 
-#Armor_class: $13$ (without armor, [[Wis\|Wis]] $+1$, [[Dex\|Dex]] $+1$)
+#Armor_class: $13$ (without armor, [[Players Handbook/Ability Scores/Wisdom Ability Score\|WIS]] $+1$, [[Players Handbook/Ability Scores/Dexterity Ability Score\|DEX]] $+1$)
 #initiative : $+2$
 #speed : $30ft$
 #languages: [[Common\|Common]], Dwarvish, Orc
@@ -40,8 +40,8 @@
 
 | Stat                                 | Modifier   |
 | :----------------------------------- | :--------: |
-| [[STR\|STR]]                              | $+4$       |
-| [[DEX\|DEX]]                              | $+4$           |
+| [[Players Handbook/Ability Scores/Strength Ability Score\|STR]]                              | $+4$       |
+| [[Players Handbook/Ability Scores/Dexterity Ability Score\|DEX]]                              | $+4$           |
 
 
 ## Skills
@@ -91,6 +91,9 @@
 >You can roll $1d4$ in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table
 > 
 > When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+>[!tip]+ Savage Attacks
+> When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit
+
 
 # Other proficiencies
 
@@ -113,7 +116,7 @@ Dao(Shortsword), dart (10), pan flute, thieves' tools, backpack, crowbar, hammer
 > See in the dark up to $60ft$
 
 >[!tip]+ Menacing
->Increase your [[CHA\|CHA]] by $1$, to a maximum of $20$.
+>Increase your [[Players Handbook/Ability Scores/Charisma Ability Score\|CHA]] by $1$, to a maximum of $20$.
 > 
 > You gain proficiency in the Intimidation skill. If you are already proficiency in the skill, you add double your proficiency bonus to checks you make with it.
 > 
@@ -122,8 +125,6 @@ Dao(Shortsword), dart (10), pan flute, thieves' tools, backpack, crowbar, hammer
 >[!tip]+ Relentless Endurance
 > When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest
 
->[!tip]+ Savage Attacks
-> When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit
 
 >[!tip]+ Discovery
 > Due to your years of quiet seclusion, endlessly studying ancient tomes, you have deep knowledge of something, I will be developing this trait over the coming days.
