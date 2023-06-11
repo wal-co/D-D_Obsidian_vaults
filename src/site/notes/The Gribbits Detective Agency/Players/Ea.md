@@ -8,7 +8,7 @@
 
 | Class & Level | Background | Player Name | Race         | Alignment |
 | ------------- | ---------- | ----------- | ------------ | --------- |
-| [[Players Handbook/Classes/Cleric\|Cleric]] $1$       | *acolyte*   | *Ea*       | [[Players Handbook/Races/Tiefling\|Tiefling]] |     *alignment*    |
+| [[Players Handbook/Classes/Cleric\|Cleric]] $1$       | *acolyte*   | *Ea*       | [[Players Handbook/Races/Tiefling\|Tiefling]] |     *Lawful Neutral*    |
 
 # Stats
 
@@ -33,32 +33,29 @@
 
 # Bonuses
 
-#Proficiency : $num$
+#Proficiency : $+2$
 
 ## Saving Throws
 
 | Stat                                | Modifier |
 |:----------------------------------- |:--------:|
-| [[Ability Score\|Ability Score]]    | $num$     |
+| [[Players Handbook/Ability Scores/Wisdom Ability Score\|WIS]]    | $+6$     |
+| [[Players Handbook/Ability Scores/Charisma Ability Score\|CHA]]    | $+2$     |
 
 
 ## Skills
 
 | Skill           | Modifier |
 |:--------------- |:--------:|
-| Acrobatics      |   $num$    |
-| Deception       |   $num$    |
-| Investigation   |   $num$    |
-| Performance     |   $num$    |
-| Sleight of Hand |   $num$    |
-| Stealth         |   $num$    |
+| Insight      |   $+6$    |
+| Medicine       |   $+6$    |
 
 # Health
 
 #HP Max: $10$ 
 
 > [!important] Current HP
->$$$$
+>$$10$$
 
 
 #dice : $die$ 
@@ -81,12 +78,18 @@
 
 | Name       | Atk Bonus | Damage  | type     |
 | ---------- |:---------:| ------- | -------- |
-| *weapon* |   $num$    | $dice + mod$ | *type* |
+| *[[Warhammer\|Warhammer]]* |   $1d8$    | $1d8 + 0$ | *Bludgeoning* |
 
 > [!tip]+ attack
 > 
 
+>[!tip]+Cantrip
+> 
+
 # Other proficiencies
+
+#armor: Light , medium , shields
+#weapons: All simple weapons
 
 # Equipment
 - Warhammer
