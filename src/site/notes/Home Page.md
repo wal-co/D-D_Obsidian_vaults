@@ -31,7 +31,7 @@ To view the Player's Handbook click the link below
 
 ```
 
-[[DnD 5e Players Handbook.pdf]]
+[[Players Handbook/Players Handbook PDF\|Players Handbook PDF]]
 
 ---
 <br><br>
