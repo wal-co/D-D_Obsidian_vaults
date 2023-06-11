@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-gribbits-detective-agency/players/ea/","tags":["PC, player, character_sheet"],"noteIcon":""}
 ---
 
-# Emily
+# Ea
 
 ![Ea.png](/img/user/Attachments/Images/Ea.png)
 
@@ -83,7 +83,7 @@
 | Name                 | Atk Bonus   | Damage    | type                        |
 | ----------           | :---------: | -------   | --------                    |
 | *[[Warhammer\|Warhammer]]*      | $+0$        | $1d8 + 0$ | *Bludgeoning*               |
-| *Light [[crossbow\|crossbow]]* | $-1$        | $1d8+0    | *piercing, crossbow bolt (range: 80/320), two handed* |
+| *Light [[crossbow\|crossbow]]* | $-1$        | $1d8-1$    | *piercing, crossbow bolt (range: 80/320), two handed* |
 
 > [!tip]+ Versatile
 > When attacking with the [[Warhammer\|Warhammer]], you can weild it with two hands and roll $1d10$ instead
