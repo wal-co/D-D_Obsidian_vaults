@@ -118,8 +118,8 @@
 
 ## Spells
 
-### Slots
-**Level 1**
+### Level $1$
+**Slots**
 - [ ] 1
 - [ ] 2
 
