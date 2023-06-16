@@ -11,7 +11,7 @@
 | Alex   | [[The Gribbits Detective Agency/Players/Alex\|Alex]]   |
 | Bella  | [[The Gribbits Detective Agency/Players/Jokgagu the Envious\|Jokgagu the Envious]]  |
 | Emily  | [[The Gribbits Detective Agency/Players/Ea\|Ea]]     |
-| Hannah | [[The Gribbits Detective Agency/Players/Hannah\|Hannah]] |
+| Hannah | [[The Gribbits Detective Agency/Players/Gaia EarthBreaker\|Gaia EarthBreaker]] |
 | Mikey  | [[The Gribbits Detective Agency/Players/Fah'Que Turnskull\|Fah'Que Turnskull]]            |
 
 # Pre-Session Notes
