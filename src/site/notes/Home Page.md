@@ -15,6 +15,15 @@ This Obsidian Vault is an offshoot of the one I made for myself as a DM. As such
 ```
 ---
 <br><br>
+```ad-abstract
+title: The Gribbits Detective Agency
+To find useful links to our campaign, click the link below
+```
+
+[[The Gribbits Detective Agency/Gribbits Campaign Home\|Gribbits Campaign Home]]
+
+---
+<br><br>
 ```ad-info
 title: Using Obsidian
 To get an overview of this app and why we are using it click the link below
@@ -24,14 +33,13 @@ To get an overview of this app and why we are using it click the link below
 [[Using Obsidian/Obsidian\|Obsidian]]
 
 ---
-<br><br>
-```ad-summary
-title: Player Handbook
-To view the Player's Handbook click the link below
 
+```ad-tip
+title: Adding more of these links to your Home Page
+If you want to add your own links to this page you can use the ones I made as a guide by entering source mode and copy/pasting then changing each field...
+
+or ask me
 ```
-
-[[Players Handbook/Players Handbook PDF\|Players Handbook PDF]]
 
 ---
 <br><br>
@@ -45,19 +53,10 @@ To view the Rules Wiki click the link below
 
 ---
 <br><br>
-```ad-abstract
-title: The Gribbits Detective Agency
-To find useful links to our campaign, click the link below
+```ad-summary
+title: Player Handbook
+To view the Player's Handbook click the link below
+
 ```
 
-[[The Gribbits Detective Agency/Gribbits Campaign Home\|Gribbits Campaign Home]]
-
----
-
-```ad-tip
-title: Adding more of these links to your Home Page
-If you want to add your own links to this page you can use the ones I made as a guide by entering source mode and copy/pasting then changing each field...
-
-or ask me
-```
-
+[[Players Handbook/Players Handbook PDF\|Players Handbook PDF]]
