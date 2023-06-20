@@ -22,15 +22,6 @@ To find useful links to our campaign, click the link below
 
 [[The Gribbits Detective Agency/Gribbits Campaign Home\|Gribbits Campaign Home]]
 
----
-<br><br>
-```ad-info
-title: Using Obsidian
-To get an overview of this app and why we are using it click the link below
-
-```
-
-[[Using Obsidian/Obsidian\|Obsidian]]
 
 ---
 <br><br>
@@ -41,6 +32,16 @@ To view the Rules Wiki click the link below
 ```
 
 [[Players Handbook/Player Handbook Wiki\|Player Handbook Wiki]]
+
+---
+<br><br>
+```ad-info
+title: Using Obsidian
+To get an overview of this app and why we are using it click the link below
+
+```
+
+[[Using Obsidian/Obsidian\|Obsidian]]
 
 ---
 <br><br>
