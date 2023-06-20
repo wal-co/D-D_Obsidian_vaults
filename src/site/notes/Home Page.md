@@ -33,15 +33,6 @@ To get an overview of this app and why we are using it click the link below
 [[Using Obsidian/Obsidian\|Obsidian]]
 
 ---
-
-```ad-tip
-title: Adding more of these links to your Home Page
-If you want to add your own links to this page you can use the ones I made as a guide by entering source mode and copy/pasting then changing each field...
-
-or ask me
-```
-
----
 <br><br>
 ```ad-faq
 title: Rules Wiki
@@ -60,3 +51,14 @@ To view the Player's Handbook click the link below
 ```
 
 [[Players Handbook/Players Handbook PDF\|Players Handbook PDF]]
+
+---
+
+```ad-tip
+title: Adding more of these links to your Home Page
+If you want to add your own links to this page you can use the ones I made as a guide by entering source mode and copy/pasting then changing each field...
+
+or ask me
+```
+
+
