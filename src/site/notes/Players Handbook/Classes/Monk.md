@@ -33,4 +33,4 @@ A master of martial arts, harnessing the power of the body in pursuit of physica
 
 ## Armor and Weapon Proficiencies 
 
-Simple [[weapons\|weapons]], [[shortswords\|shortswords]] 
+Simple [[DND SRD MASTER/Equipment/Weapons\|weapons]], [[shortswords\|shortswords]] 
