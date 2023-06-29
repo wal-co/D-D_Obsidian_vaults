@@ -32,4 +32,4 @@ A wielder of magic that is derived from a bargain with an extraplanar entity
 
 ## Armor and Weapon Proficiencies 
 
-Light [[armor\|armor]], simple [[weapons\|weapons]] 
+Light [[DND SRD MASTER/Equipment/Armor\|armor]], simple [[DND SRD MASTER/Equipment/Weapons\|weapons]] 
