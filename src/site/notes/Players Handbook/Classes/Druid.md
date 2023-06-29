@@ -40,4 +40,4 @@ Due to their attunement with nature, Druids will not use metal armor or shields
 
 ## Armor and Weapon Proficiencies 
 
-Light and medium [[armor\|armor]], [[shields\|shields]], [[clubs\|clubs]], [[daggers\|daggers]], [[darts\|darts]], [[javelins\|javelins]], [[maces\|maces]], [[quarterstaffs\|quarterstaffs]],[[scimitars\|scimitars]], [[sickles\|sickles]], [[slings\|slings]], [[spears\|spears]]
+Light and medium [[DND SRD MASTER/Equipment/Armor\|armor]], [[shields\|shields]], [[clubs\|clubs]], [[daggers\|daggers]], [[darts\|darts]], [[javelins\|javelins]], [[maces\|maces]], [[quarterstaffs\|quarterstaffs]],[[scimitars\|scimitars]], [[sickles\|sickles]], [[slings\|slings]], [[spears\|spears]]
