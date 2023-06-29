@@ -31,4 +31,4 @@ A master of marital combat, skilled with a variety of weapons and armor
 
 ## Armor and Weapon Proficiencies 
 
-All [[armor\|armor]], [[shields\|shields]], simple and martial [[weapons\|weapons]]
+All [[DND SRD MASTER/Equipment/Armor\|armor]], [[shields\|shields]], simple and martial [[DND SRD MASTER/Equipment/Weapons\|weapons]]
