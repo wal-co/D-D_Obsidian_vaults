@@ -31,6 +31,6 @@ A scoundrel who uses stealth and trickery to overcome obstacles and enemies
 
 ## Armor and Weapon Proficiencies 
 
-Light [[armor\|armor]], simple [[weapons\|weapons]], hand [[crossbows\|crossbows]], [[longswords\|longswords]], [[rapiers\|rapiers]], [[shortswords\|shortswords]] 
+Light [[DND SRD MASTER/Equipment/Armor\|armor]], simple [[DND SRD MASTER/Equipment/Weapons\|weapons]], hand [[crossbows\|crossbows]], [[longswords\|longswords]], [[rapiers\|rapiers]], [[shortswords\|shortswords]] 
 
 
