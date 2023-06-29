@@ -4,11 +4,11 @@
 
 # Ea
 
-![Ea.png](/img/user/Attachments/Images/Ea.png)
+![Ea.jpeg](/img/user/Attachments/Images/Ea.jpeg)
 
 | Class & Level  | Background | Player Name | Race         | Alignment        |
 | -------------  | ---------- | ----------- | ------------ | ---------        |
-| [[Players Handbook/Classes/Cleric\|Cleric]] $1$ | *acolyte*  | *Emily*     | [[Players Handbook/Races/Tiefling\|Tiefling]] | *Lawful Neutral* |
+| [[DND SRD MASTER/Classes/Cleric\|Cleric]] $1$ | *acolyte*  | *Emily*     | [[DND SRD MASTER/Races/Tiefling\|Tiefling]] | *Lawful Neutral* |
 
 # Stats
 
@@ -25,7 +25,7 @@
 #Armor_class: $15$ (scale mail $+14$, shield $+2$, Dex $-1$)
 #initiative : $-1$
 #speed : $30ft$
-#languages: [[Common\|Common]], [[Gnomish\|Gnomish]], [[Players Handbook/Races/Halfling\|Halfling]], [[Infernal\|Infernal]]
+#languages: [[Common\|Common]], [[Gnomish\|Gnomish]], [[DND SRD MASTER/Races/Halfling\|Halfling]], [[Infernal\|Infernal]]
 
 # Inspiration
 
