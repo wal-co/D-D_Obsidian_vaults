@@ -8,7 +8,7 @@
 
 | Class & Level | Background | Player Name | Race         | Alignment |
 | ------------- | ---------- | ----------- | ------------ | --------- |
-|[[Players Handbook/Classes/Barbarian\|Barbarian]] $1$   | *outlander* | *Bella* | [[Players Handbook/Races/Half-Orc\|Half-Orc]] | *Lawful Neutral* |
+|[[DND SRD MASTER/Classes/Barbarian\|Barbarian]] $1$   | *outlander* | *Bella* | [[DND SRD MASTER/Races/Half-Orc\|Half-Orc]] | *Lawful Neutral* |
 
 
 
@@ -25,7 +25,7 @@
 #Armor_class: $15$ (hide *light* +12, shield +2, Dex +1)
 #initiative : $+1$
 #speed : $30ft$
-#languages: [[Common\|Common]], [[Giant\|Giant]], [[Orc\|Orc]]
+#languages: [[Common\|Common]], [[Giant\|Giant]], [[DND SRD MASTER/Monsters/Orc\|Orc]]
 
 # Inspiration
 
