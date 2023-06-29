@@ -30,6 +30,8 @@ I did not write this help doc with tablets in mind. If you are using an iPad I c
 
 Obsidian is what is known as a "modal editor", which is not as scary as that sounds. It simply means there are a few "modes" the app takes depending on what you want to do
 
+
+
 ## Reading Mode
 
 - This is the mode that I have set to automatically load when you click a link
