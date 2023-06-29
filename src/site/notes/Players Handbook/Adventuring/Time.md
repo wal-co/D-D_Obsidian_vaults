@@ -19,4 +19,4 @@
 	- In #Dungeons #time takes place in minutes
 	- In the #Wild or the #City, #time takes place in hours
 	- For a long #Journey #time takes place in days
-	- In #combat #time takes place in rounds ^[see [[Combat\|Combat]]]
+	- In #combat #time takes place in rounds ^[see [[DND SRD MASTER/Gameplay/Combat\|Combat]]]
