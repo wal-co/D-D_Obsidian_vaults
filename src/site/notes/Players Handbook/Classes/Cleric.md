@@ -33,4 +33,4 @@ A priestly champion who wields divine magic in service of a higher power
 
 ## Armor and Weapon Proficiencies 
 
-Light and medium [[armor\|armor]], [[shields\|shields]], simple [[weapons\|weapons]]
+Light and medium [[DND SRD MASTER/Equipment/Armor\|armor]], [[shields\|shields]], simple [[DND SRD MASTER/Equipment/Weapons\|weapons]]
