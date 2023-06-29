@@ -7,7 +7,7 @@
 
 | Class & Level | Background | Player Name | Race             | Alignment        |
 | ------------- | ---------- | ----------- | ------------     | ---------        |
-| [[Players Handbook/Classes/Druid\|Druid]] $1$ | *spy*      | *Hannah*    | *Hill* [[Players Handbook/Races/Dwarf\|dwarf]] | *lawful neutral* |
+| [[DND SRD MASTER/Classes/Druid\|Druid]] $1$ | *spy*      | *Hannah*    | *Hill* [[DND SRD MASTER/Races/Dwarf\|dwarf]] | *lawful neutral* |
 
 # Stats
 
@@ -20,7 +20,8 @@
 | [[Players Handbook/Ability Scores/Wisdom Ability Score\|WIS]]       |    $+4$    | $18$  |
 | [[Players Handbook/Ability Scores/Charisma Ability Score\|CHA]]     |  $+1$   | $12$ |
 
-#passive_perception : $14$
+
+#passive_perception : $14$ 
 #Armor_class: $14$ (Leather armor(light)+11, Dex +1, shield +2)
 #initiative : $+1$
 #speed : $25ft$
@@ -53,6 +54,8 @@
 # Health
 
 #HP Max: $12$ 
+
+
 
 > [!important] Current HP
 >$$12$$
