@@ -8,7 +8,7 @@
 
 | Player | Character  |
 | ------ | ---------- |
-| Alex   | [[The Gribbits Detective Agency/Players/Alex\|Alex]]   |
+| Alex   | [[The Gribbits Detective Agency/Players/Ravaphine Darkcloak\|Ravaphine Darkcloak]]   |
 | Bella  | [[The Gribbits Detective Agency/Players/Jokgagu the Envious\|Jokgagu the Envious]]  |
 | Emily  | [[The Gribbits Detective Agency/Players/Ea\|Ea]]     |
 | Hannah | [[The Gribbits Detective Agency/Players/Gaia EarthBreaker\|Gaia EarthBreaker]] |
