@@ -32,4 +32,4 @@ A warrior who uses martial prowess and nature magic to combat threats on the edg
 
 ## Armor and Weapon Proficiencies 
 
-Light and medium [[armor\|armor]], [[shields\|shields]], simple and martial [[weapons\|weapons]]
+Light and medium [[DND SRD MASTER/Equipment/Armor\|armor]], [[shields\|shields]], simple and martial [[DND SRD MASTER/Equipment/Weapons\|weapons]]
