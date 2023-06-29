@@ -82,7 +82,7 @@
 ```ad-info
 title: Critical Rolls
 collapse: open
-A #dice roll of a 1 or 20 on a d20 is known as a crit fail or crit success respectively. These can lead to either devestating consequences or incredible feats, and are a good source of #Inspiration if you role play them out effectively!
+A #dice roll of a 1 or 20 on a d20 is known as a crit fail or crit success respectively. These can lead to either devestating consequences or incredible feats, and are a good source of [[DND SRD MASTER/Characterizations/Inspiration\|Inspiration]] if you role play them out effectively!
 ```
 
 
@@ -246,7 +246,7 @@ $$
 | Wild     | Hours    |
 | City     | Hours    |
 | Journeys | Days     |
-| Combat   | Seconds         |
+| [[DND SRD MASTER/Gameplay/Combat\|Combat]]   | Seconds         |
 
 ## Movement
 
@@ -259,7 +259,7 @@ $$
 		- Mounts can be ridden for 1 hour at double your speed
 		- Vehicles can extend the time you can travel, some up to 24 hours per day
 	- Difficult terrain (such as deep swamps or crumbling ruins) will cut your speed in half
-- Adventuring often requires moving through difficult Terrain
+- [[DND SRD MASTER/Gameplay/Adventuring\|Adventuring]] often requires moving through difficult Terrain
 	- #Climbing, #Swimming, and #Crawling costs 1 extra foot
 	- #Jumping is determined by [[Players Handbook/Ability Scores/Strength Ability Score\|STR]]
 - When traveling the DM will determine a marching order
@@ -281,7 +281,7 @@ $$
 	- Max of $20d6$
 - Suffocating
 	- Players can hold their breath
-		- $\text{time}=1+\text{CON}$ 
+		- $\text{time}=1+\text{[[Players Handbook/Ability Scores/Constitution Ability Score\|CON]]}$ 
 	- After running out of breath you can survive for the number of turns equal to your [[Players Handbook/Ability Scores/Constitution Ability Score\|CON]] modifier
 
 
@@ -289,7 +289,7 @@ $$
 
 # Combat
 
-While out adventuring you are likely to encounter hostile factions, waring tribes, or gangs of bandits, just to give a few examples. Combat has a clear structure where the players control their own character and the DM controls all others, both friendly and hostile.
+While out adventuring you are likely to encounter hostile factions, waring tribes, or gangs of bandits, just to give a few examples. [[DND SRD MASTER/Gameplay/Combat\|Combat]] has a clear structure where the players control their own character and the DM controls all others, both friendly and hostile.
 
 ```ad-tip
 title: The DM and Combat
@@ -323,15 +323,15 @@ Enemy actions will be run by the DM and follow (most) of the same rules as playe
  
 > #Suffocating
 > - Players can hold their breath
-> 	- $\text{time}=1+\text{CON}$ 
+> 	- $\text{time}=1+\text{[[Players Handbook/Ability Scores/Constitution Ability Score\|CON]]}$ 
 > - After running out of breath you can survive for the number of turns equal to your [[Players Handbook/Ability Scores/Constitution Ability Score\|CON]] modifier
 
-> #Light 
+> #[[DND SRD MASTER/Spells/Light\|Light]] 
 > - Areas are generally bright, dim, or dark. 
 > - The lighting of an area effects perception checks, but not your ability to hit an enemy
 
-> #Inspiration
+> #[[DND SRD MASTER/Characterizations/Inspiration\|Inspiration]]
 > - Players who are particularly creative or role play particularly effectively can be given a bonus by the DM
 > - You either have inspiration or you do not. ***No Stacking!***
-> - Inspiration can be used to gain [[Players Handbook/Player Handbook Wiki#Dice rolling\|Advantage]]  on saving throws, ability checks, or in combat
+> - [[Inspiration]] can be used to gain [[Players Handbook/Player Handbook Wiki#Dice rolling\|Advantage]]  on saving throws, ability checks, or in combat
 
