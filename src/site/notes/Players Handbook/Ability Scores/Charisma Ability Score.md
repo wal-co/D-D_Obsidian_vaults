@@ -21,4 +21,4 @@
 
 ## Spellcasting Ability 
 
-- [[Players Handbook/Classes/Bard\|Bard]], [[Players Handbook/Classes/Paladin\|Paladin]], [[Players Handbook/Classes/Sorcerer\|Sorcerer]], and [[Players Handbook/Classes/Warlock\|Warlock]] use Cha as their [[spellcasting\|spellcasting]] ability, which determines the saving throw DCs of [[spells\|spells]] they cast 
+- [[DND SRD MASTER/Classes/Bard\|Bard]], [[DND SRD MASTER/Classes/Paladin\|Paladin]], [[DND SRD MASTER/Classes/Sorcerer\|Sorcerer]], and [[DND SRD MASTER/Classes/Warlock\|Warlock]] use Cha as their [[spellcasting\|spellcasting]] ability, which determines the saving throw DCs of [[spells\|spells]] they cast 
