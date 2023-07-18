@@ -27,6 +27,7 @@
 #speed : $30ft$
 #languages: [[Common\|Common]], [[Gnomish\|Gnomish]], [[DND SRD MASTER/Races/Halfling\|Halfling]], [[Infernal\|Infernal]]
 
+
 # Inspiration
 
 - [ ] #Inspiration -- use to gain #advantage on a roll
@@ -117,6 +118,7 @@
 >You touch one willing creature. Once, before the spell ends, the target can roll $1d4$ and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
 ## Spells
+
 
 ### Level $1$
 **Slots**
