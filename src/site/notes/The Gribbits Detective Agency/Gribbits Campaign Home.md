@@ -78,3 +78,13 @@ Corey's pcloud test
 >Use the link below to send me your files.
 
 [Upload to pcloud](https://u.pcloud.link/publink/show?code=kZvrrOVZM3wfJQDEgCFfG4I7G1iLpHm4V597)
+
+# Access the Website
+
+```ad-tip
+title: Up-to-Date Information
+collapse: open
+To see the most up to date information regarding our campaign, click the link below.
+```
+
+[Go to the Website](https://d-and-d-obsidian-vaults.vercel.app/)
