@@ -63,3 +63,7 @@ or ask me
 ```
 
 
+# Downloading the new Vault
+
+1) Download the file "Player Vault" from [here](https://u.pcloud.link/publink/show?code=kZIBmAVZATTscaudnam2LVrizvQtcj0vD92V)
+2) Move the folder to the location that your *current* player vault is (I can help you find this), when it asks to keep or replace files select "Replace"
