@@ -150,3 +150,25 @@ Greataxe, Quarterstaff, javelin (4), hide armor, shield, disguise kit, forgery k
 
 >[!tip]+ Wanderer
 >You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth
+
+# My Character Traits
+
+  
+## Personality  
+
+- I place no stock in wealthy or well-mannered folk.  Money and manners won’t save you from a hungry owlbear.
+
+
+## Ideal
+
+- **Nature**. The natural world is more important than all the constructs of civilization.
+
+
+## Bond
+
+- I am the last of my tribe, and it is up to me to ensure their names enter legend.
+
+
+## Flaw
+
+- There's no room for caution in a life lived to the fullest.
