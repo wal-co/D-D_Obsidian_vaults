@@ -27,7 +27,6 @@
 #speed : $30ft$
 #languages: [[Common\|Common]], [[Gnomish\|Gnomish]], [[DND SRD MASTER/Races/Halfling\|Halfling]], [[Infernal\|Infernal]]
 
-
 # Inspiration
 
 - [ ] #Inspiration -- use to gain #advantage on a roll
@@ -97,7 +96,7 @@
 > Components: V, S
 > Duration: Instantaneous
 >
->Flame-like radiance descends on a creature that you can see within range. The target must succeed on a [[Dex\|Dex]] saving throw or take $1d8$ of radiant damage. The target gains no benefit from cover for this saving throw
+>Flame-like radiance descends on a creature that you can see within range. The target must succeed on a [[Players Handbook/Ability Scores/Dexterity Ability Score\|DEX]] saving throw or take $1d8$ of radiant damage. The target gains no benefit from cover for this saving throw
 
 
 >[!tip]+ Spare the Dying
@@ -118,7 +117,6 @@
 >You touch one willing creature. Once, before the spell ends, the target can roll $1d4$ and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
 ## Spells
-
 
 ### Level $1$
 **Slots**
@@ -178,3 +176,45 @@ Warhammer, light crossbow, scale mail, shield, 20 crossbow bolts, holy symbol/re
 
 >[!tip]+ Disciple of Life
 > Whenever you cast a spell of 1st level or higher to restore hitpoints to a creature, the creature regains additional hit points equal to $2+\text{the spells level}$
+
+# My Character Traits
+
+## Personality Traits
+
+- I misquote sacred texts and proverbs in almost every situation.
+
+## Ideals
+
+- **Charity**. I always try to help those in need, no matter what the personal cost. *(Good)*
+
+## bond
+
+- I will do anything to protect the temple where I served. (Eiffel Tower)
+
+## Flaw
+
+- Once I pick a goal, I become obsessed with it to the detriment of everything else in my life 
+
+
+### Character Quotes
+
+1. "In three words I can sum up everything I've learned about life: Eat The Avocado"
+2. "You can lead a horse to water, but you cant make it drown"
+3. "No pain, no brain"
+4. "Time flies when you have wings"
+5. "We'll cross that bridge when it overflows"
+6. "Actions speak louder than swords"
+7. "Bit off more than you could choke"
+8. "Go on a wild whale chase"
+9. "Kill two stones with one bird
+10. "Once in a Green Sun"
+11. "Karma's an angel"
+12. "Spill the salt"
+13. "The best thing since canned pickles"
+14. "The early bird gets the cow"
+15. "You cant judge a book by it's smell"
+16. "An apple a day keeps the dragons at bay"
+17. "Curiosity saved the cat"
+18. "Go down in quicksand"
+19. "It is always darkest before the rainbow"
+20. "it takes two to drink"
